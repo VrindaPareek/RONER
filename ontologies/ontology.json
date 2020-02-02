@@ -1,0 +1,243 @@
+{
+  "name": "categories",
+  "level": 0,
+  "children": [
+    {
+      "name": "guidance",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "guidelines" ]
+    },
+    {
+      "name": "regulations",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "rules" ]
+    },
+    {
+      "name": "forums",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "discussions", "group", "community" ]
+    },
+    {
+
+      "name": "data integrity",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "data security" ]
+    },
+    {
+      "name": "good documentation practices",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "gdp", "gdocp" ]
+    },
+    {
+      "name": "quality assurance",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "qa" ]
+    },
+    {
+      "name": "document control",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "dcr", "document change control", "document change request" ]
+    },
+    {
+      "name": "computer system validation",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "21cfr11", "part 11" ]
+    },
+    {
+      "name": "archival",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "record retention", "archives" ]
+    },
+    {
+      "name": "document control",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "dcr", "document change control", "document change request" ]
+    },
+    {
+      "name": "good practices",
+      "level": 1,
+      "parent": "categories",
+      "synonyms": [ "gxp" ],
+      "children": [
+        {
+          "name": "glp",
+          "level": 2,
+          "parent": "good practices",
+          "synonyms": [ "good laboratory practices", "good lab practices" ],
+          "children": [
+            {
+              "name": "organization and personnel",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "employees" ]
+            },
+            {
+              "name": "facilities",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "buildings", "grounds" ]
+            },
+            {
+              "name": "equipment",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "instruments", "utensils" ]
+            },
+            {
+              "name": "testing facility operation",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "quality control", "qc" ]
+            },
+            {
+              "name": "test and control articles",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "investigational product", "test material", "ip", "ivp", "placebo", "drug", "drug product", "api" ]
+            },
+            {
+              "name": "protocol for non-clinical study",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": [ "protocol", "study protocol" ]
+            },
+            {
+              "name": "records and reports",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": []
+            },
+            {
+              "name": "disqualification",
+              "level": 3,
+              "parent": "glp",
+              "synonyms": []
+            }
+          ]
+        },
+        {
+          "name": "gmp",
+          "level": 2,
+          "parent": "good practices",
+          "synonyms": [ "good manufacturing practices", "current good manufacturing practices", "cgmp" ],
+          "children": [
+            {
+              "name": "organization and personnel",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": [ "employees" ]
+            },
+            {
+              "name": "building and facilities",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": [ "buildings", "grounds" ]
+            },
+            {
+              "name": "equipment",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": [ "instruments", "utensils" ]
+            },
+            {
+              "name": "return and salvaged drug products",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": []
+            },
+            {
+              "name": "product and process controls",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": []
+            },
+            {
+              "name": "control of components and drug containers",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": []
+            },
+            {
+              "name": "packaging and labeling control",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": []
+            },
+            {
+              "name": "holding and distribution",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": [ "warehouse", "storage" ]
+            },
+            {
+              "name": "laboratory controls",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": [ "quality control", "qc" ]
+            },
+            {
+              "name": "records and reports",
+              "level": 3,
+              "parent": "gmp",
+              "synonyms": []
+            }
+          ]
+        },
+        {
+          "name": "gcp",
+          "level": 2,
+          "parent": "good practices",
+          "synonyms": [ "good clinical practices" ],
+          "children": [
+            {
+              "name": "irb",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": [ "institutional review board", "oversight" ]
+            },
+            {
+              "name": "investigator",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": [ "employees" ]
+            },
+            {
+              "name": "sponsor",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": [ "employees", "owner" ]
+            },
+            {
+              "name": "protocol and amendments",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": []
+            },
+            {
+              "name": "investigator's brochure",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": []
+            },
+            {
+              "name": "essential documents for the conduct of a clinical trial",
+              "level": 3,
+              "parent": "gcp",
+              "synonyms": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

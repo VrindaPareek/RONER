@@ -1,0 +1,30 @@
+{
+    "name": "READS-USDA-Notices-01-07",
+    "author": "USDA",
+    "resourceType": "Guidance",
+    "description": "01-07 Identification of Testing Methods for Detection of Extraneous Agents in Fetal Bovine Serum",
+    "sourceRepository": [
+        "aphis.usda.gov"
+    ],
+    "version": "",
+    "linkToSource": [
+        "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices"
+    ],
+    "directDownloadLink": [
+        "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_01_07.pdf"
+    ],
+    "tags": [
+        "guidance",
+        "USDA",
+        "USA",
+        "Guidance"
+    ],
+    "bulk": {
+        "id": "01-07",
+        "title": "01-07 Identification of Testing Methods for Detection of Extraneous Agents in Fetal Bovine Serum",
+        "documentLink": "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_01_07.pdf",
+        "category": "CVB Notices - 2001",
+        "originLink": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+        "pdf": "July 9, 2001CENTER FOR VETERINARY BIOLOGICS NOTICE 01-07Subject: Identification of Testing Methods for Detection of Extraneous Agents in FetalBovine SerumTo: Biologics Licensees, Permittees, and ApplicantsDirectors, Center for Veterinary BiologicsI.  PURPOSEThe purpose of this notice is to request information regarding how firms currently are meetingrequirements for and providing results of extraneous agent testing of fetal bovine serum (FBS)in accordance with 9 CFR 113.53.  Historically, this information has been determined byvarious methods and reported in variable formats.  The Center for Veterinary Biologics (CVB)is interested in how the ingredients of animal origin are being tested and who actually conductsthe testing.  It is the intent of the CVB to gather this information for future policy decisions.II.  ACTIONLicensees and Permittees should update their information on extraneous agent testing of FBS toreflect current practices and provide an informational summary listing the test methods used bythe firm to the CVB.  The firm should also provide if testing is:           1) conducted by the firm,contract, or serum supplier; or 2) if Certificates of Analysis, firm bench records, internal QualityAssurance audits, Audits of contractors, or other forms of information from contractors orsuppliers is offered as verification of extraneous agent for FBS.The CVB requests that firms submit copies of this informational summary to the Center forVeterinary Biologics-Licensing and Policy Development before September 15, 2001.Randall L. LevingsDirectorCenter for Veterinary Biologics                                          APHIS - Protecting American Agriculture                                           An Equal Opportunity EmployerUnited StatesDepartment ofAgricultureMarketing andRegulatoryProgramsAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologicsP.O. Box 844Ames, IA  50010(515) 663-7331FAX (515) 663-7673E-mail:cvb@aphis.usda.govFederal RelayService(Voice/TTY/ASCII/Spanish)(800) 877-8339"
+    }
+}

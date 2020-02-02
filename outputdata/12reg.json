@@ -1,0 +1,31 @@
+{
+    "name": "READS-USDA-Notices-03-13",
+    "author": "USDA",
+    "resourceType": "Guidance",
+    "description": "03-13 Detection of Avian Lymphoid Leukosis Virus in Veterinary Biological Products",
+    "sourceRepository": [
+        "aphis.usda.gov"
+    ],
+    "version": "",
+    "linkToSource": [
+        "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices"
+    ],
+    "directDownloadLink": [
+        "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_13.pdf"
+    ],
+    "tags": [
+        "regulations",
+        "guidance",
+        "USDA",
+        "USA",
+        "Guidance"
+    ],
+    "bulk": {
+        "id": "03-13",
+        "title": "03-13 Detection of Avian Lymphoid Leukosis Virus in Veterinary Biological Products",
+        "documentLink": "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_13.pdf",
+        "category": "CVB Notices - 2003",
+        "originLink": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+        "pdf": "    United States Department of Agriculture  Marketing and Regulatory  Programs  Animal and Plant Health Inspection Service  Veterinary Services  Center for Veterinary Biologics Suite 104 510 South 17th Street Ames, IA  50010 (515) 232-5785 FAX (515) 232-7120  September 12, 2003   CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 03-13  Subject: Detection of Avian Lymphoid Leukosis Virus    in Veterinary Biological Products  To:  Biologics Licensees, Permittees, and Applicants   Veterinary Services Management Team   Directors, Center for Veterinary Biologics   I. PURPOSE  The purpose of this notice is to inform interested parties that the Center for Veterinary Biologics (CVB) is aware that certain veterinary biological products may contain a contaminating virus not easily detected by current routine test methods and to describe actions to address this issue.     II. BACKGROUND  Six subgroups of avian leukosis virus (ALV), also known as lymphoid leukosis virus (LLV), are currently recognized.  These are retroviruses known to infect chickens and can significantly lower production and increase susceptibility to other diseases.  Five of these subgroups (designated A, B, C, D, and J) are transmitted as infectious viral particles and known as exogenous ALVs.  Genetic elements of Subgroup E ALVs are integrated in the normal genome of nearly all chickens either as complete or incomplete viral genomes and known as endogenous ALV.  Typically, exogenous ALV are associated with tumor formation and production problems while endogenous ALV are not.  Because both forms of ALV can be transmitted vertically, chicken embryos and tissue cultures used as ingredients or substrates for the production of veterinary biological products may harbor exogenous or endogenous ALV.    The CVB, under authority of the Virus-Serum-Toxin Act and the Code of Federal Regulations (9 CFR), requires that all veterinary biological products be tested and shown to be free of contaminating agents to ensure purity.  While suppliers of fertile eggs or tissue for use in veterinary biological product production are not regulated by the CVB, Veterinary Services (VS) Memorandum No. 800.65 specifies that fertile eggs or tissue intended for use in the production of veterinary biological products be free of specified disease agents, including ALV.  In addition, the 9 CFR 113.31 specifies that prior to release for sale, all live virus veterinary biological products must be tested by the complement fixation test for avian leukosis (COFAL), which detects the presence of exogenous ALV.          Veterinary Services \u2013 Safeguarding Animal Health              Federal Relay Service      An Equal Opportunity Employer          (Voice/TTY/ASCII/Spanish)              1-800-877-8339 Center for Veterinary Biologics Notice No. 03-13             2   Information has recently come to the attention of the CVB suggesting the presence of ALV in certain veterinary biological products intended for use in poultry which was not detected by the required routine testing specified in VS Memorandum No. 800.65 and     9 CFR 113.31.  The reason for the failure of the required tests to detect this contamination is unclear at this time, but may be related to the presence of both endogenous (Subgroup E) and exogenous (Subgroup A) ALV in the tested samples.  The source of the contaminating virus has not been unequivocally determined, but evidence suggests a common source of fertile eggs used in the manufacture of the contaminated products as the origin.    III. ACTION  The CVB is issuing this notice to ensure that members of the veterinary biological product industry who use fertile eggs or tissues derived from them in their production processes are aware of this issue and can exercise appropriate safeguards to prevent contamination of their products.    Veterinary biologics manufacturers are required to report the results of all testing for ALV by any method used by the firm, including and in addition to the test required by    9 CFR 113.31.  These results shall be included on APHIS Form 2008 for each product serial when submitted to the CVB for authorization to release the serial (9 CFR 116.7).     The CVB is further addressing this issue in cooperation with representatives from industry, academia, and other government agencies through the following steps:    \u2022 We are currently evaluating the COFAL test as specified in 9 CFR 113.31, as well as modifications to this test and alternative procedures, to enhance the ability to detect ALV contamination of products.   We expect that this evaluation will result in proposals to modify ALV test procedures from those currently prescribed by regulation or pending implementation.   \u2022 Validated results will be communicated to industry representatives as they become available.    Veterinary biologics manufacturers are encouraged to continue to assist the CVB by providing valuable information and adopting recommendations in a timely fashion to ensure the highest quality of veterinary biological products.   /s/ Richard E. Hill, Jr.   Richard E. Hill, Jr. Director Center for Veterinary Biologics    "
+    }
+}

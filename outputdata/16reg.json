@@ -1,0 +1,31 @@
+{
+    "name": "READS-USDA-Notices-04-17",
+    "author": "USDA",
+    "resourceType": "Guidance",
+    "description": "04-17 Exemption to 3-year Master Seed Immunogenicity Retesting",
+    "sourceRepository": [
+        "aphis.usda.gov"
+    ],
+    "version": "",
+    "linkToSource": [
+        "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices"
+    ],
+    "directDownloadLink": [
+        "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_04_17.pdf"
+    ],
+    "tags": [
+        "regulations",
+        "guidance",
+        "USDA",
+        "USA",
+        "Guidance"
+    ],
+    "bulk": {
+        "id": "04-17",
+        "title": "04-17 Exemption to 3-year Master Seed Immunogenicity Retesting",
+        "documentLink": "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_04_17.pdf",
+        "category": "CVB Notices - 2004",
+        "originLink": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+        "pdf": "Safeguarding American AgricultureFederal Relay Service                                          APHIS is an agency of USDA\u2019s Marketing and Regulatory Programs (Voice/TTY/ASCII/Spanish)An Equal Opportunity Provider and Employer 1-800-877-8339 November 4, 2004CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 04-17Subject: Exemption to 3-year Master Seed Immunogenicity RetestingTo:  Biologics Licensees, Permittees, and Applicants  Veterinary Services Management Team  Directors, Center for Veterinary BiologicsThe purpose of this notice is to inform interested parties that the Center for VeterinaryBiologics (CVB) is currently in the process of reviewing regulations that require MasterSeeds of live virus and bacterial vaccines to be retested for immunogenicity 3 years afterthe initial immunogenicity study.After review of historical data, we have found that this testing has been uninformative.Therefore, little risk is associated with dropping these requirements and reducing animaltesting.  Currently, 3-year immunogenicity testing of Master Seeds is required in 9 CFR113.66(b)(6), 113.67(b)(7), 113.68(b)(6), 113.69(b)(6), 113.70(b)(5), 113.71(b)(4),113.302(c)(4), 113.303(c)(6), 113.304(c)(4), 113.305(b)(1)(iii), 113.305(b)(2)(iii),113.306(b)(4), 113.308(b)(5), 113.309(c)(9), 113.310(c)(8), 113.311(c)(7),113.312(b)(5), 113.313(c)(6), 113.314(c)(4), 113.315(c)(4), 113.316(b)(5),113.317(c)(4), 113.318(b)(4), 113.325(c)(5), 113.326(c)(5), 113.327(c)(4), 113.328(c)(6),113.329(c)(5), 113.331(c)(4), and 113.332(c)(4).The CVB will allow exemptions to these testing requirements until the regulations arerevised.  Requests for exemptions to these regulations should be addressed to thereviewer assigned to the establishment./s/ Richard E. Hill, Jr.Richard E. Hill, Jr.DirectorCenter for Veterinary BiologicsUnited StatesDepartment ofAgricultureAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologics510 S. 17th Street,Suite 104Ames, IA  50010(515) 232-5785FAX (515) 232-7120"
+    }
+}

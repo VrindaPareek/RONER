@@ -1,0 +1,31 @@
+{
+    "name": "READS-USDA-Notices-04-16",
+    "author": "USDA",
+    "resourceType": "Guidance",
+    "description": "04-16 Efficacy Requirements and Label Claims for Bovine Rotavirus Vaccine",
+    "sourceRepository": [
+        "aphis.usda.gov"
+    ],
+    "version": "",
+    "linkToSource": [
+        "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices"
+    ],
+    "directDownloadLink": [
+        "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_04_16.pdf"
+    ],
+    "tags": [
+        "guidance",
+        "group",
+        "USDA",
+        "USA",
+        "Guidance"
+    ],
+    "bulk": {
+        "id": "04-16",
+        "title": "04-16 Efficacy Requirements and Label Claims for Bovine Rotavirus Vaccine",
+        "documentLink": "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_04_16.pdf",
+        "category": "CVB Notices - 2004",
+        "originLink": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+        "pdf": "Safeguarding American AgricultureFederal Relay Service                                          APHIS is an agency of USDA\u2019s Marketing and Regulatory Programs (Voice/TTY/ASCII/Spanish)An Equal Opportunity Provider and Employer 1-800-877-8339September 28, 2004CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 04-16Subject: Efficacy Requirements and Label Claims for Bovine Rotavirus VaccineTo: Biologics Licensees, Permittees, and ApplicantsDirectors, Center for Veterinary BiologicsI. PURPOSEThis notice informs licensees, permittees, and applicants of current Center for VeterinaryBiologics policy concerning efficacy requirements and label claims for Bovine RotavirusVaccine.II. BACKGROUNDInfection with bovine rotavirus, most commonly group A rotavirus, can cause diarrhea inneonatal calves.  Among the bovine group A rotavirus, eight glycoprotein (G) serotypeshave been reported.  Although the most commonly recognized G serotypes are G6 andG10, there have been reports of other G serotypes isolated from diarrheic calves in theUnited States and other parts of the world.  The cross-protection provided by theseserotypes is known to be very limited.  This notice clarifies the type of label claims that canbe made for rotavirus vaccines, and the efficacy data needed to support these label claims.III. POLICYLabel claims may only be made for those G serotypes where protection has beendemonstrated by satisfactory vaccination-challenge studies in calves.  The primary variableshould be diarrhea.  Fecal shedding of rotavirus may be considered as a secondary variable.Firms should provide data confirming that the cause of post-challenge diarrhea was thechallenge virus, ruling out other bacterial and viral enteropathogens.  All licenses issuedsubsequent to October 31, 2004, for products containing bovine rotavirus should conformto this guideline.  Labels and promotional materials for previously licensed products shouldbe amended, as necessary, by October 31, 2005./s/ Richard E. Hill, Jr.Richard E. Hill, Jr.DirectorCenter for Veterinary BiologicsUnited StatesDepartment ofAgricultureAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologics510 S. 17th Street,Suite 104Ames, IA  50010(515) 232-5785FAX (515) 232-7120"
+    }
+}

@@ -1,0 +1,21 @@
+[ {
+  "name" : "READS-USDA-Notices-02-15",
+  "author" : "USDA",
+  "resourceType" : "Guidance",
+  "description" : "02-15 Permit Requirements for Pathogenic Organisms, Including Challenge Materials",
+  "sourceRepository" : [ "aphis.usda.gov" ],
+  "version" : "",
+  "linkToSource" : [ "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices" ],
+  "directDownloadLink" : [ "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_15.pdf" ]
+}, {
+  "tags" : [ "USDA", "USA", "Guidance" ]
+}, {
+  "bulk" : {
+    "id" : "02-15",
+    "title" : "02-15 Permit Requirements for Pathogenic Organisms, Including Challenge Materials",
+    "documentLink" : "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_15.pdf",
+    "category" : "CVB Notices - 2002",
+    "originLink" : "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+    "pdf" : "       Veterinary Services – Safeguarding Animal Health    July 26, 2002  CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 02-15   Subject: Permit Requirements for Pathogenic Organisms, Including Challenge  Materials  To:  Biologics Licensees, Permittees, and Applicants   Veterinary Services Management Team   Directors, Center for Veterinary Biologics   Current U.S. Department of Agriculture (USDA), Animal and Plant Health Inspection Service (APHIS), Veterinary Services (VS) regulations require recipients of livestock and poultry pathogens to obtain a USDA veterinary permit for the transport of livestock and poultry pathogens.  Therefore, licensees will need to supply a copy of their USDA veterinary permit with any order for livestock or poultry pathogens, including challenge materials.  Effective August 1, 2002, the Center for Veterinary Biologics-Laboratory will not ship any pathogenic cultures to licensees without a copy of a valid permit.  If you do not already have a valid permit, please submit a single permit application listing all the cultures you anticipate ordering in the coming year.  Permits are good for 1 year, and you may request amendments and renewal of the permit as needed.  Please apply at your earliest convenience, as the review and processing of a permit may take 6 to 8 weeks.  There are several methods for submitting a permit application.  You may apply online at the web site, http://www.aphis.usda.gov/vs/ncie.  Alternatively, you may download an application from the web site or call (301) 734-3277 to have an application faxed to you.  You may then fax your completed application to (301) 734-8226.  For faxed and online applications, you must pay the $94 user fee by credit card or use a previously established USDA, APHIS user fee credit account.  If you wish to pay the user fee by check, you may mail your application to USDA, APHIS, VS, NCIE, 4700 River Road, Unit 40, Riverdale, MD  20737.  However, please note that recently there have been delays in mail delivery.  If you have further questions about the permit process, please contact the National Center for Import and Export at (301) 734-3277.  /s/ Richard E. Hill, Jr.  Richard E. Hill, Jr. Director Center for Veterinary Biologics  United States Department of Agriculture  Marketing and Regulatory  Programs  Animal and Plant Health Inspection Service  Veterinary Services  Center for Veterinary Biologics 1800 Dayton Avenue P.O. Box 844 Ames, IA  50010 (515) 663-7331 FAX (515) 663-7673  Federal Relay Service (Voice/TTY/ASCII/ Spanish) 1-800-877-8339 "
+  }
+} ]

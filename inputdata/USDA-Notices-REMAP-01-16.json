@@ -1,0 +1,21 @@
+[ {
+  "name" : "READS-USDA-Notices-01-16",
+  "author" : "USDA",
+  "resourceType" : "Guidance",
+  "description" : "01-16 Autogenous Products for Avian Influenza",
+  "sourceRepository" : [ "aphis.usda.gov" ],
+  "version" : "",
+  "linkToSource" : [ "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices" ],
+  "directDownloadLink" : [ "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_01_16.pdf" ]
+}, {
+  "tags" : [ "USDA", "USA", "Guidance" ]
+}, {
+  "bulk" : {
+    "id" : "01-16",
+    "title" : "01-16 Autogenous Products for Avian Influenza",
+    "documentLink" : "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_01_16.pdf",
+    "category" : "CVB Notices - 2001",
+    "originLink" : "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+    "pdf" : "December 17, 2001CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 01-16Subject:  Autogenous Products for Avian InfluenzaTo: Biologics Licensees, Permittees, and ApplicantsDirectors, Center for Veterinary BiologicsVeterinary Services Management Team Area Veterinarians in Charge, VSState VeterinariansThe purpose of this notice is to remind interested parties that domestic distribution and use ofavian influenza (AI) vaccines for any species may only be done under the supervision andcontrol of USDA, APHIS, Veterinary Services (VS).  Requirements for the licensure of AI vaccines and a summary of the restrictions on their use areprovided in Veterinary Services Memorandum No. 800.85, dated July 23, 1999.  Avianinfluenza is considered a program disease by APHIS, VS, and any importation or interstatemovement of AI viruses is strictly regulated and is only authorized by permit in accordance with9 CFR 122.2.  The practice of producing AI vaccines as autogenous products under a firm's existingautogenous product license without specific authorization from APHIS, VS, does not meetthese requirements and is prohibited.  The Center for Veterinary Biologics (CVB) will notrelease autogenous AI vaccines without authorization from both the relevant State authorities,responsible officials of APHIS, VS, and if necessary, required permits for interstate transport./s/ Steven A. KarliSteven A. KarliDirectorCenter for Veterinary Biologics                                          APHIS - Protecting American Agriculture                                           An Equal Opportunity EmployerUnited StatesDepartment ofAgricultureMarketing andRegulatoryProgramsAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologicsSuite 104510 South 17th StreetAmes, IA  50010(515) 232-5785FAX (515) 232-7120"
+  }
+} ]

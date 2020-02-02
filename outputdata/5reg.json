@@ -1,0 +1,31 @@
+{
+    "name": "READS-USDA-Notices-02-04",
+    "author": "USDA",
+    "resourceType": "Guidance",
+    "description": "02-04 Autogenous Vaccine Use in Turkeys",
+    "sourceRepository": [
+        "aphis.usda.gov"
+    ],
+    "version": "",
+    "linkToSource": [
+        "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices"
+    ],
+    "directDownloadLink": [
+        "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_04.pdf"
+    ],
+    "tags": [
+        "guidance",
+        "facilities",
+        "USDA",
+        "USA",
+        "Guidance"
+    ],
+    "bulk": {
+        "id": "02-04",
+        "title": "02-04 Autogenous Vaccine Use in Turkeys",
+        "documentLink": "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_04.pdf",
+        "category": "CVB Notices - 2002",
+        "originLink": "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+        "pdf": "January 18, 2002CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 02-04Subject:  Autogenous Vaccine Use in TurkeysTo: Biologics Licensees, Permittees, and ApplicantsArea Veterinarians in Charge, VSState VeterinariansVeterinary Services Management TeamDirectors, Center for Veterinary BiologicsThe purpose of this notice is to inform interested parties of the procedure required to permitlimited use of autogenous avian influenza (AI) vaccine in turkeys.AI is considered an exotic disease by the Animal and Plant Health Inspection Service(APHIS).  Therefore, the requirements and restrictions applicable to conditionally licensed AIvaccine outlined in Veterinary Services Memoranda 565.12 dated July 24, 1995, and 800.85dated July 23, 1999, apply also to autogenous vaccine produced from avian influenza isolates.  Generally, vaccine from any H5 or H7 serotype should not be prepared or used unlessspecifically authorized by APHIS.  AI vaccine from serotypes other than H5 and H7 may beproduced for use in turkeys only.  In either case, vaccine should only be used in facilities withproper biocontainment and sentinel systems.Prior to shipping each serial (including the first serial) of autogenous AI vaccine for use inturkeys, veterinary biologics manufacturers must submit to the Center for VeterinaryBiologics-Inspection and Compliance (CVB-IC): 1.  Data and/or reports documenting compliance with all requirements specified in 9 CFR 113.113. 2.  A description of the product (including H type), the serial number, location of premises, andquantity of the product to be used (number of doses) at that location. 3.  One copy of a letter of permission from state animal health officials authorizing vaccine useand specifying any conditions of that use.                                          APHIS - Protecting American Agriculture                                           An Equal Opportunity EmployerUnited StatesDepartment ofAgricultureMarketing andRegulatoryProgramsAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologicsSuite 104510 South 17th StreetAmes, IA  50010(515) 232-5785FAX (515) 232-7120Center for Veterinary Biologics Notice No. 02-04         2For the first serial of autogenous vaccine produced from an isolate, the information specified initems 1 and 2 should be sent to CVB-IC in letter format (along with item 3).When the APHIS Form 2008, Veterinary Biologics Production and Test Report, is submittedto CVB-IC at the completion of product testing, the information in items 1 and 2 should alsobe included on that form.  For subsequent serials, the information specified in items 1 and 2should be recorded on APHIS Form 2008, attached to the letter of permission signed by theappropriate state animal health official, and submitted to CVB-IC.  Veterinary biologics manufacturers are reminded that VS Form 16-6A, United StatesVeterinary Permit for Importation and Transportation of Controlled Materials and Organismsand Vectors, must be obtained prior to shipping/transporting AI isolates from one location toanother.  Refer to 9 CFR Part 122 or contact the National Center for Import and Export atwww.aphis.usda.gov/vs/import_export.htm for information concerning permit applicationprocedures. /s/ Steven A. KarliSteven A. KarliDirectorCenter for Veterinary Biologics"
+    }
+}

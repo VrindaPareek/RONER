@@ -1,0 +1,21 @@
+[ {
+  "name" : "READS-USDA-Notices-03-14",
+  "author" : "USDA",
+  "resourceType" : "Guidance",
+  "description" : "03-14 Customer Feedback on Reagents",
+  "sourceRepository" : [ "aphis.usda.gov" ],
+  "version" : "",
+  "linkToSource" : [ "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices" ],
+  "directDownloadLink" : [ "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_14.pdf" ]
+}, {
+  "tags" : [ "USDA", "USA", "Guidance" ]
+}, {
+  "bulk" : {
+    "id" : "03-14",
+    "title" : "03-14 Customer Feedback on Reagents",
+    "documentLink" : "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_14.pdf",
+    "category" : "CVB Notices - 2003",
+    "originLink" : "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+    "pdf" : "        Veterinary Services – Safeguarding A nimal Health              Federal Relay Service      An Equal Opportunity Employer          (Voice/TTY/ASCII/Spanish)              1-800-877-8339    United States Department of Agriculture  Marketing and Regulatory  Programs   Animal and Plant Health Inspection Service  Veterinary Services  Center for Veterinary Biologics Suite 104 510 South 17th Street Ames, IA  50010 (515) 232-5785 FAX (515) 232-7120  October 2, 2003  CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 03-14   Subject: Customer Feedback on Reagents  To:  Biologics Licensees, Permittees, and Applicants   Veterinary Services Management Team           Directors, Center for Veterinary Biologics             The purpose of this notice is to inform interested parties of the process used by the Center for Veterinary Biologics (CVB) to collect and address customer feedback concerning reagents and reference preparations provided by the CVB.  References and reagents are supplied when available as testing aids as described in Title 9 Code of Federal Regulations, Part 113, Section 2 (9 CFR 113.2) to assist veterinary biologics manufacturers to meet codified requirements and as a service to the U.S. veterinary biologics manufacturers for agents or procedures without codified requirements.  Reagents are also provided to USDA laboratories for diagnostic and research purposes.  The CVB welcomes feedback from our customers concerning the quality or other issues about the references and reagents we supply.  We also welcome feedback concerning our responses to reference and reagent requests.  In order to provide a timely and accurate response to your comments and concerns, we ask that you call only the CVB central number at 515-663-7331.   Written correspondence may be sent by facsimile to 515-663-7673 or via e-mail to cvb@aphis.usda.gov.  Your comments will be forwarded to the appropriate individual within the Center for response.     We also request that customers return the CVB “Request for Reference Reagent or Reagent Seed Material” forms with the “receipt” portion (lines 18-22) completed.  This information will allow us to address any shipping problems, such as delayed receipt or improperly preserved reagents.  All contacts concerning reagents and reference material will be recorded in our reagent database.  This will allow us to track individual contacts and ensure that responses occur in a timely manner.  Summary reports of customer feedback will be regularly reviewed and results used to improve our customer service and the quality of the reagents.  /s/ Richard E. Hill, Jr.   Richard E. Hill, Jr. Director Center for Veterinary Biologics "
+  }
+} ]

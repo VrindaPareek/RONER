@@ -1,0 +1,21 @@
+[ {
+  "name" : "READS-USDA-Notices-03-08",
+  "author" : "USDA",
+  "resourceType" : "Guidance",
+  "description" : "03-08 Purpose of the Equine Infectious Anemia Weak Positive Serum Sample Outlined in Veterinary Services Memorandum No. 555-16",
+  "sourceRepository" : [ "aphis.usda.gov" ],
+  "version" : "",
+  "linkToSource" : [ "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices" ],
+  "directDownloadLink" : [ "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_08.pdf" ]
+}, {
+  "tags" : [ "USDA", "USA", "Guidance" ]
+}, {
+  "bulk" : {
+    "id" : "03-08",
+    "title" : "03-08 Purpose of the Equine Infectious Anemia Weak Positive Serum Sample Outlined in Veterinary Services Memorandum No. 555-16",
+    "documentLink" : "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_03_08.pdf",
+    "category" : "CVB Notices - 2003",
+    "originLink" : "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+    "pdf" : "       Veterinary Services – Safeguarding Animal Health           Federal Relay Service      An Equal Opportunity Employer             (Voice/TTY/ASCII/Spanish)                 1-800-877-8339    May 23, 2003   CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 03-08   Subject: Purpose of the Equine Infectious Anemia Weak Positive Serum Sample   as Outlined in Veterinary Services Memorandum No. 555.16  To:  Biologics Licensees, Permittees, and Applicants   Veterinary Services Management Team   Directors, Center for Veterinary Biologics   The purpose of this notice is to inform interested parties of the intended function of the Equine Infectious Anemia (EIA) weak positive serum sample required in the testing procedures to be followed by approved EIA laboratories as outlined in Veterinary Services (VS) Memorandum No. 555.16.  According to VS Memorandum No. 555.16, a weak positive EIA serum sample is available from the National Veterinary Services Laboratories (NVSL).  The NVSL EIA serum sample is intended to remind approved personnel of the expected weak positive precipitation lines obtained in an agar gel immunodiffusion (AGID) test.  This serum sample does not represent a weak positive threshold sample as the sample has a higher antibody concentration.  If manufacturers wish to evaluate the NVSL EIA serum, they may purchase the sample from the NVSL.  The NVSL EIA serum sample is not intended to be used by manufacturers of AGID Equine Infectious Anemia Virus Antibody Test Kits during the standardization of the antigen in individual serials.  The Center for Veterinary Biologics-Policy, Evaluation, and Licensing (CVB-PEL) has available the current EIA weak positive threshold serum that manufacturers should use for antigen standardization of each AGID serial.  The EIA threshold serum is available to manufacturers upon request to the CVB-PEL.   /s/ Richard E. Hill, Jr.  Richard E. Hill, Jr. Director Center for Veterinary Biologics    United States Department of Agriculture  Marketing and Regulatory  Programs   Animal and Plant Health Inspection Service  Veterinary Services   Center for Veterinary Biologics Suite 104 510 South 17th Street Ames, IA  50010 (515) 232-5785 FAX (515) 232-7120   "
+  }
+} ]

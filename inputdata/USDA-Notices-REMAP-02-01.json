@@ -1,0 +1,21 @@
+[ {
+  "name" : "READS-USDA-Notices-02-01",
+  "author" : "USDA",
+  "resourceType" : "Guidance",
+  "description" : "02-01 Critical Study Dates for Licensing and Reference Qualification Studies",
+  "sourceRepository" : [ "aphis.usda.gov" ],
+  "version" : "",
+  "linkToSource" : [ "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices" ],
+  "directDownloadLink" : [ "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_01.pdf" ]
+}, {
+  "tags" : [ "USDA", "USA", "Guidance" ]
+}, {
+  "bulk" : {
+    "id" : "02-01",
+    "title" : "02-01 Critical Study Dates for Licensing and Reference Qualification Studies",
+    "documentLink" : "https://www.aphis.usda.gov/animal_health/vet_biologics/publications/notice_02_01.pdf",
+    "category" : "CVB Notices - 2002",
+    "originLink" : "https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/biologics-regulations-and-guidance/ct_vb_notices",
+    "pdf" : "January 3, 2002CENTER FOR VETERINARY BIOLOGICS NOTICE NO. 02-01Subject: Critical Study Dates for Licensing and Reference Qualification StudiesTo: Biologics Licensees, Permittees, and ApplicantsDirectors, Center for Veterinary BiologicsI.  PURPOSEThe purpose of this notice is to clarify the policy of the Center for Veterinary Biologics (CVB)regarding critical dates for host animal studies performed in support of licensure and/orreference qualification and maintenance.II.  POLICYAll licensees, permittees, and applicants, when submitting protocols for pivotal studies, shouldinclude the dates of critical study events.  Critical events include, but are not limited to, date(s)of vaccination, challenge, post-challenge observation, and necropsy. This information should besupplied sufficiently in advance of the study so that CVB personnel may arrange to observekey portions of the study, if desired.If the dates provided in the protocol subsequently change, an updated schedule should beprovided to the CVB.  /s/ Richard E. Hill, Jr.Richard E. Hill, Jr.DirectorCenter for Veterinary Biologics                                          APHIS - Protecting American Agriculture                                           An Equal Opportunity EmployerUnited StatesDepartment ofAgricultureMarketing andRegulatoryProgramsAnimal and PlantHealth InspectionServiceVeterinary ServicesCenter for VeterinaryBiologicsSuite 104510 South 17th StreetAmes, IA  50010(515) 232-5785FAX (515) 232-7120"
+  }
+} ]
